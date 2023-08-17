@@ -5,14 +5,14 @@
         <description>New update available for goodBot application</description>
         <language>en</language>
         <item>
-            <title>Version 2.0.2+1</title>
+            <title>Version 2.0.2+2</title>
             <sparkle:releaseNotesLink>
                 https://asifjawedgoodbot.github.io/release_notes/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://drive.google.com/file/d/1hG7J3_Iluq9rgV_icBnuxQL3hTY-hXsY/view?usp=sharing"
                        sparkle:dsaSignature="MDwCHDnEtGsFvu1xVIV+fHMr5Au7Jb2TJBXdyBwwD3QCHCDjtJX2UxyIKDlc6DLzh04+Zl0SwkcmjMQvDXY="
-                       sparkle:version="2.0.2+1"
+                       sparkle:version="2.0.2+2"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
